@@ -10,16 +10,16 @@ import { SocialContainer, SocialLink } from './SocialLinks.styled';
 export default function SocialLinks() {
   return (
     <SocialContainer>
-      <SocialLink href="https://www.youtube.com/c/jamesqquick">
+      <SocialLink href="#">
         <FontAwesomeIcon icon={faYoutube} size="1x" />
       </SocialLink>
-      <SocialLink href="https://www.facebook.com/learnbuildteach/">
+      <SocialLink href="#">
         <FontAwesomeIcon icon={faFacebook} size="1x" />
       </SocialLink>
-      <SocialLink href="http://www.instagram.com/larnbuildteach">
+      <SocialLink href="#">
         <FontAwesomeIcon icon={faInstagram} size="1x" />
       </SocialLink>
-      <SocialLink href="https://wwww.twitter.com">
+      <SocialLink href="#">
         <FontAwesomeIcon icon={faTwitter} size="1x" />
       </SocialLink>
     </SocialContainer>
