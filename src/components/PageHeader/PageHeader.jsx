@@ -14,6 +14,9 @@ import { setFilter } from '../../redux/filter/filterSlice';
 import { useMediaQuery } from 'react-responsive';
 import { useLocation } from 'react-router-dom';
 
+
+
+
 export const PageHeader = ({ currentState, handleToggleSideBar }) => {
   const dispatch = useDispatch();
   const isMobile = useMediaQuery({ query: '(max-width: 1279px)' });
@@ -55,6 +58,9 @@ export const PageHeader = ({ currentState, handleToggleSideBar }) => {
               }}
             />
           </NavLinks>
+          <div>
+            {/* <button onClick={() => loginWithRedirect()}>login</button> */}
+          </div>
           {isMobile && isFavouritePage && (
             <SideBtn onClick={handleToggleSideBar}>
               {currentState ? (
