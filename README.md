@@ -32,13 +32,6 @@
 
 <h1 align="center">Wheels 4 Rent</h1>
  <h3 align="center">React + Vite Aplication created to find your best car rental with easy way</h3>
- 
-  <p >
-    <a href="https://github.com/Victoria-Fedkova/wheels4rent"><strong>Explore the docs »</strong></a> |
-    <a href="https://victoria-fedkova.github.io/wheels4rent/">View Demo</a> |
-    <a href="https://github.com/Victoria-Fedkova/wheels4rent/issues">Report Bug</a> |
-    <a href="https://github.com/Victoria-Fedkova/wheels4rent/issues">Request Feature</a>
-  </p>
 </div>
 
 
@@ -89,7 +82,7 @@
  <p align="left">Recommend popular cars based on user viewing. </p>
 <img width="1337" alt="Снимок экрана 2023-09-20 в 23 16 23" src="https://github.com/Victoria-Fedkova/wheels4rent/assets/63882255/5188c881-6b13-4e27-beac-79310dff638d">
 
- <p align="left">Save and show user viewed cars. </p>
+ <p align="left">Save and show user-viewed cars. </p>
  <img width="1315" alt="Снимок экрана 2023-09-22 в 01 52 45" src="https://github.com/Victoria-Fedkova/wheels4rent/assets/63882255/f59ab828-8c46-4047-acfc-cc683e037224">
 
  <p align="left">Filters for custom favorites </p>
@@ -97,7 +90,6 @@
 <p align="left">Responsive sidebar with additional controll button</p>
 <img width="716" alt="Снимок экрана 2023-09-22 в 04 31 55" src="https://github.com/Victoria-Fedkova/wheels4rent/assets/63882255/92dfad36-6ee9-49c7-8fd8-1896b99b31c9">
 
- See the [open issues](https://github.com/victoria-fedkova/wheels4rent/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
