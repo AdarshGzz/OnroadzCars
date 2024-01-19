@@ -1,17 +1,6 @@
 <a name="readme-top"></a>
 <div align='center'>
 <p align="center">
-    <a href="https://github.com/Victoria-Fedkova/wheels4rent/commits/main">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/Victoria-Fedkova/wheels4rent/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/Victoria-Fedkova/wheels4rent.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub pull requests">
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 [forks-shield]: https://img.shields.io/github/forks/Victoria-Fedkova/wheels4rent.svg?style=for-the-badge
 [forks-url]: https://github.com/Victoria-Fedkova/wheels4rent/network/members
@@ -24,11 +13,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Victoria-Fedkova/wheels4rent">
-    <img src="https://github.com/Victoria-Fedkova/wheels4rent/assets/63882255/0eaa859a-3422-4702-93e3-25e0992f250f" alt="Logo" >
-
-  </a>
-
 
 <h1 align="center">Wheels 4 Rent</h1>
  <h3 align="center">React + Vite Aplication created to find your best car rental with easy way</h3>
