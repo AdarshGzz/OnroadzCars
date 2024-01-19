@@ -101,16 +101,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Victoria Fedkova - [@telegram](https://t.me/victoria_fedkova) -[LinkedIn](https://www.linkedin.com/in/victoria-fedkova/) - [gmail](victoria-fedkova@gmail.com)
-
-Project Link: [victoria-fedkova/wheels4rent](https://github.com/victoria-fedkova.github.io/wheels4rent)
-
-Don't forget to give the project a star! Thanks!
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
